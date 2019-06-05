@@ -1,9 +1,10 @@
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
-        Options -MultiViews
+       #Options -MultiViews
     </IfModule>
 
     RewriteEngine On
+    RewriteBase /~user14/task1
 
     # Redirect Trailing Slashes...
     RewriteRule ^(.*)/$ /$1 [L,R=301]
