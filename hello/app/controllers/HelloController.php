@@ -67,7 +67,7 @@ class HelloController extends BaseController
 		//$tracks = Artist::all();
 		//$tracks = Album::all();
 
-		$artist = Artist::find($id);
+		/*$artist = Artist::find($id);
 		var_dump($artist->tracks);
 		$albums = $artist->albums;
 		foreach($albums as $album){
@@ -78,7 +78,7 @@ class HelloController extends BaseController
 				echo ' - '.$track->Name . ' ('.$track->album->Title . ')';
 				echo '<br/>';
 			}
-		}
+		}*/
 
 		//$track = Track::find($id)
 		//return View::make('songList', compact('tracks'));
