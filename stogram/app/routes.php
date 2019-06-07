@@ -11,13 +11,20 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
+Route::get('/', 'HomeController@showIndex');
 
 Route::get('/auth/signup', "AuthController@showSignupForm");
 Route::post('/auth/signup', "AuthController@postSignupForm");
 
 Route::get('/auth/login', "AuthController@showLoginForm");
 Route::post('/auth/login', "AuthController@postLoginForm");
+
+Route::get('/auth/logout', "AuthController@logout");
+
+Route::post('/upload', "HomeController@postImage");
+
+Route::get('/image/{id}', "HomeController@showImage");
+
+Route::get('/image-file/{id}', 'HomeController@getImageFile');
+
+Route::post('/comment', 'HomeController@postComment');
