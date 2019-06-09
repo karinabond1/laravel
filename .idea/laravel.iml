@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/classpreloader/classpreloader" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/d11wtq/boris" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/ircmaxell/password-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/jeremeamia/SuperClosure" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/kylekatarnls/update-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/patchwork/utf8" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/predis/predis" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/stack/builder" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/browser-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/security-core" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/vendor/symfony/translation" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

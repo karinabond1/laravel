@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('task1.app.views.layout')
 
 @section('content')
 <form action='submit' method='post'>
